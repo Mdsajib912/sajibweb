@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.bg{
+
+	background:#ff8000;
+}
+.nav-item a{
+    font-size: 25px;
+    color: #00ff80!important
+
+}
+.nav-item a:hover{
+	color: #fff!important
+}
+
+.loginpage{
+	background: #ffff99;
+	width: 600px;
+	height: 400px;
+	margin: auto;
+	margin-top: 40px;
+	border-radius: 10px;
+
+}
+
+.loginpage input{
+	background: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
